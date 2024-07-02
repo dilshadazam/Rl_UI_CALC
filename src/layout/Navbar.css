@@ -1,0 +1,21 @@
+/* Navbar.css */
+
+nav {
+  background-color: #004a54;
+  color: #fff;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
